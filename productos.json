@@ -1,0 +1,84 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Laptop Lenovo IdeaPad 3",
+      "categoria": "Tecnología",
+      "precio": 3200,
+      "stock": 10,
+      "descripcion": "Laptop con procesador AMD Ryzen 5, 8GB RAM y SSD de 256GB."
+    },
+    {
+      "id": 2,
+      "nombre": "Mouse Inalámbrico Logitech M185",
+      "categoria": "Accesorios",
+      "precio": 70,
+      "stock": 50,
+      "descripcion": "Mouse inalámbrico con batería de larga duración."
+    },
+    {
+      "id": 3,
+      "nombre": "Teclado Mecánico Redragon Kumara",
+      "categoria": "Accesorios",
+      "precio": 210,
+      "stock": 25,
+      "descripcion": "Teclado mecánico RGB con switches Outemu Blue."
+    },
+    {
+      "id": 4,
+      "nombre": "Monitor Samsung 24\" FHD",
+      "categoria": "Tecnología",
+      "precio": 780,
+      "stock": 15,
+      "descripcion": "Monitor IPS Full HD con 75 Hz."
+    },
+    {
+      "id": 5,
+      "nombre": "Auriculares Gamer HyperX Cloud II",
+      "categoria": "Accesorios",
+      "precio": 450,
+      "stock": 20,
+      "descripcion": "Auriculares profesionales con sonido envolvente 7.1."
+    },
+    {
+      "id": 6,
+      "nombre": "Silla Gamer Cougar Armor One",
+      "categoria": "Mobiliario",
+      "precio": 1150,
+      "stock": 5,
+      "descripcion": "Silla ergonómica resistente y ajustable."
+    },
+    {
+      "id": 7,
+      "nombre": "Impresora Epson EcoTank L3250",
+      "categoria": "Oficina",
+      "precio": 1450,
+      "stock": 8,
+      "descripcion": "Impresora multifunción con sistema de tinta continua."
+    },
+    {
+      "id": 8,
+      "nombre": "Smartphone Xiaomi Redmi Note 12",
+      "categoria": "Tecnología",
+      "precio": 980,
+      "stock": 30,
+      "descripcion": "Pantalla AMOLED, 128 GB y cámara de 50 MP."
+    },
+    {
+      "id": 9,
+      "nombre": "Cargador Tipo C Samsung 25W",
+      "categoria": "Accesorios",
+      "precio": 55,
+      "stock": 60,
+      "descripcion": "Cargador rápido original Samsung."
+    },
+    {
+      "id": 10,
+      "nombre": "Disco Duro Externo WD 1TB",
+      "categoria": "Tecnología",
+      "precio": 320,
+      "stock": 12,
+      "descripcion": "Disco duro USB 3.0 de 1 TB para almacenamiento portátil."
+    }
+  ]
+}
